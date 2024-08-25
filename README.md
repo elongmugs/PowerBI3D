@@ -1,8 +1,7 @@
 #Important info when building from Source-Code
 Used Versions to build from are:
 
-powerbi-visuals-tools@4.2.1
-powerbi-visuals-api@3.8.0
+powerbi-visuals-tools@4.2.1 And powerbi-visuals-api@3.8.0
 
 
 # Power BI 3D
