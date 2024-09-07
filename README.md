@@ -14,7 +14,7 @@ Here is the updated README with the necessary changes:
 Custom Visual for Power BI to visualize 3D models and connect them to your data. It uses the library three.js
 Supports files:
 3DM 
-GLB (Not for coloring)
+GLB ( GLB dont support coloring... yet :))
 
 
 ## Acknowledgement
