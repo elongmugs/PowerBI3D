@@ -1,6 +1,4 @@
-Here's the updated README with **"How to Use Power BI 3D"** before **"How to Use the Export Feature"**:
 
----
 
 # Important Info When Building from Source-Code
 
